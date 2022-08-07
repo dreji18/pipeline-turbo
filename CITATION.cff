@@ -1,6 +1,6 @@
 @software{pipeline-turbo,
   author = {Deepak John Reji, Afreen Aman},
-  title = {{pipeline-turbo}},
+  title = {pipeline-turbo},
   url = {https://github.com/dreji18/pipeline-turbo},
   version = {0.0.5},
   year = {2022}
