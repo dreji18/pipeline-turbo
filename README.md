@@ -3,7 +3,7 @@
 pipeline-turbo is a package that will accelerate your processing pipeline. It works with the multi-threading concept in the background. It has been successful in both CPU and GPU tasks.
 
 The only pre-requisite is to load the function running for a single process and adjust the threads according to your resource availability.
-![turbo](images/graph.jpg | width=100)
+![turbo](images/graph.jpg)
 
 Read more about threading here: https://www.activestate.com/blog/how-to-manage-threads-in-python/
 
