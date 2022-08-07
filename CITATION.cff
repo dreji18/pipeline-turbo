@@ -1,4 +1,4 @@
-@package{pipeline-turbo},
+@software{pipeline-turbo},
   title={pipeline-turbo},
   author={Deepak John Reji, Afreen Aman},
   url = {https://github.com/dreji18/pipeline-turbo},
