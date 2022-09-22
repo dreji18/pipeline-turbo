@@ -6,6 +6,9 @@ pipeline-turbo is a package that will accelerate your processing pipeline. It wo
 <a href="https://pypi.org/project/pipeline-turbo/">
     <img alt="CI" src="https://img.shields.io/badge/pypi-v0.0.6-orange">
 </a>
+<a href="https://youtu.be/GjAxx-COhiw">
+    <img alt="CI" src="https://img.shields.io/badge/Tutorial-Video-red">
+</a>
 
 The only pre-requisite is to load the function running for a single process and adjust the threads according to your resource availability.
 ![turbo](images/graph.jpg)
