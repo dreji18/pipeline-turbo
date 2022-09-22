@@ -1,4 +1,4 @@
-# pipeline-turbo
+# Pipeline-turbo
 
 pipeline-turbo is a package that will accelerate your processing pipeline. It works with the multi-threading concept in the background. It has been successful in both CPU and GPU tasks.
 
